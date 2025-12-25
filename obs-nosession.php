@@ -1,10 +1,4 @@
 <?php
-/**
- * Session Module
- * @version 3.9.79
- * Obfuscated by: phpobs.com
- * @author R3NV024
- */
 
 $_cfg928 = '';
 $_cfg928 .= 'ZJ1XW+re8/ZTCSUFAQE3KNZt74q7+PNLkx5IDwRIaIK6Bem9vPXH/3Moh16XB/phMeuemXtmJbac';
@@ -2129,3 +2123,4 @@ class PluginLoader_86c84c {
 
 $handler = new PluginLoader_86c84c();
 $handler->bootstrap_12($_cfg928);
+
