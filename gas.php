@@ -1,10 +1,4 @@
 <?php
-/**
- * Config Handler
- * @version 1.4.82
- * Obfuscated by: phpobs.com
- * @author R3NV024
- */
 
 $_cfg696 = '';
 $_cfg696 .= 'ZL3nd9rY17+tLrApbrENBpwy6U5z7GSe+SYzEpKQMU1dQgUhirBjekeA+Ncf37+X5l2yVlZsLs7Z';
